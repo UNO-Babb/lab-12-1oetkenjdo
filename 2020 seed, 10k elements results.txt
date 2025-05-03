@@ -1,0 +1,52 @@
+Sorting 10000 elements.
+
+=== Bubble Sort ===
+Ordered list:
+Time: 3.23591 seconds
+
+Reversed list:
+Time: 6.46797 seconds
+
+Random list:
+Time: 4.83637 seconds
+
+=== Bubble Sort Early Exit ===
+Ordered list:
+Time: 0.00059 seconds
+
+Reversed list:
+Time: 6.00804 seconds
+
+Random list:
+Time: 4.71577 seconds
+
+=== Selection Sort ===
+Ordered list:
+Time: 1.95299 seconds
+
+Reversed list:
+Time: 2.08485 seconds
+
+Random list:
+Time: 2.01284 seconds
+
+=== Insertion Sort ===
+Ordered list:
+Time: 0.00098 seconds
+
+Reversed list:
+Time: 3.75048 seconds
+
+Random list:
+Time: 1.97728 seconds
+
+=== Merge Sort ===
+Ordered list:
+Time: 0.01686 seconds
+
+Reversed list:
+Time: 0.01616 seconds
+
+Random list:
+Time: 0.02100 seconds
+
